@@ -7,6 +7,11 @@ body {
   font-family: sans-serif;
   background: linear-gradient(#141e30, #243b55);
 }
+body {
+  background-image: url('../ejemplo-remoto/imagenes/logo-marca-slack.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
 
 .login-box {
