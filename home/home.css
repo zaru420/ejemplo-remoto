@@ -5,7 +5,7 @@ body {
   margin:0;
   padding:0;
   font-family: sans-serif;
-  background-image: url('../ejemplo-remoto/imagenes/logo-marca-slack.jpg');
+  background-image: url('../imagenes/logo-marca-slack.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
