@@ -1,0 +1,25 @@
+a.btn {
+    /* aplicamos los estilos "btn" y "btn-outline-info" a todos los botones dentro de la barra de navegación */
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #000000;
+    background-color: transparent;
+    border-color: #000000;
+    border-radius: 0.25rem;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  
+  nav button.btn-outline-info {
+    /* aplicamos el estilo "btn-outline-info" a los botones que tengan la clase "btn */
+  
+  @keyframes btn-anim4 {
+    0% {
+      bottom: -100%;
+    }
+    50%,100% {
+      bottom: 100%;
+    }
+  } 
+  }
