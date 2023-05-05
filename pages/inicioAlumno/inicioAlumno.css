@@ -137,3 +137,8 @@ scroll-margin-block: left;
 text-align: left;
 display: inline-block;
 }
+
+.tabla{
+  border: #3ae4e4;
+  border-style: dashed;
+}
